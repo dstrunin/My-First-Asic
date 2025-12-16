@@ -1,7 +1,7 @@
 # Makefile for Pure Verilog Simulation
 # 1. Source files
 #    Adjust the filename if your src file is named differently!
-SRC = ../src/tt_um_first_asic.v
+SRC = ../src/tt_um_first_asic.v ../src/seven_seg.v
 TB = tb.v
 
 # 2. Tools
